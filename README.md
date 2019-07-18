@@ -1,6 +1,8 @@
 # Rust API client for DaDaPushClient
 
-DaDaPush: Real-time Notifications App Send real-time notifications through our API without coding and maintaining your own app for iOS or Android devices.
+DaDaPush: Real-time Notifications App
+
+Send real-time notifications through our API without coding and maintaining your own app for iOS or Android devices.
 
 ## Overview
 
